@@ -10,6 +10,8 @@ function event() {
         setName(e.target.value)
        }}
        
+
+         type="text"
       
        />
        <h1>{name}</h1>
